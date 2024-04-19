@@ -1,6 +1,6 @@
 /*
-WHATSAPP BOT BY Janith sadanuwan 
-WHATSAPP - 94767438882
+WHATSAPP BOT BY BUDHITHA SATHNINDU 
+WHATSAPP - 94772576041
 SUPPORT GROUP - https://t.me/QueenNilu
 YOUTUBE - http://youtube.com/janithsadanuwan
 */
@@ -14,18 +14,18 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QUEENNILU;;;8j12XSJD#XV6K-bTxJ2-Mc1tZ9dCiiPzaKetWaBIaPASc1l1YptA' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://budhitha_user:xNevOPrRyJIztgaBnzrRwseDEW0f2aVf@dpg-cohespn79t8c7380ufj0-a.frankfurt-postgres.render.com/budhitha'
 
  
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94772576041'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'BUDHITHA'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
